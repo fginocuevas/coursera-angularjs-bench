@@ -1,1 +1,1 @@
-# coursera-angularjs-bench
+# coursera-test
